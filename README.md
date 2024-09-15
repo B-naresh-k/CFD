@@ -1,2 +1,2 @@
-# CFD
-CFD Projects
+# 2-D Heat conduction problem
+
